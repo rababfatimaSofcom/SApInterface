@@ -5,6 +5,7 @@ using System.Reflection;
 using SApInterface.API.Model.DTO;
 using Microsoft.AspNetCore.Authorization;
 using System.Data;
+using Microsoft.Azure.Cosmos;
 
 namespace SApInterface.API.Controllers
 {
@@ -23,6 +24,7 @@ namespace SApInterface.API.Controllers
         }
 
         [HttpGet]
+
         public async Task<IActionResult> GetAllSections()
         {
             var section = await sectionRepository.GetAsync();
@@ -30,6 +32,23 @@ namespace SApInterface.API.Controllers
 
             var sectionsDTO = mapper.Map<List<Model.DTO.SectionDTO>>(section);
             return Ok(sectionsDTO);
+
+        }
+        [HttpGet]
+        [Route("sectiondetail")]
+        public async Task<IActionResult> GetSectionDetail()
+        {
+            var section = await sectionRepository.GetSectionDetails();
+
+
+            //var sectionsDTO = new Model.Domain.SectionDetail()
+            //{
+            //    sectionCode = section.id,
+            //    sectionName = addSectionRequest.sectionName,
+            //};
+
+         //   var sectionsDTO = mapper.Map<List<Model.DTO.SectionDTO>>(section);
+            return Ok(section);
 
         }
 
@@ -40,7 +59,7 @@ namespace SApInterface.API.Controllers
         public async Task<IActionResult> GetSectionAsync(string id)
         {
             var section = await sectionRepository.GetSectionAsync(id);
-
+           
             if (section == null)
             {
                 return NotFound();

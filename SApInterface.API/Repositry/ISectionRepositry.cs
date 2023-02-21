@@ -4,6 +4,8 @@ namespace SApInterface.API.Repositry
 {
     public interface ISectionRepositry
     {
+        Task<List<SectionDetail>> GetSectionDetails();
+
         Task<List<Section>> GetAsync();
 
         Task<Section> GetSectionAsync(string code);
