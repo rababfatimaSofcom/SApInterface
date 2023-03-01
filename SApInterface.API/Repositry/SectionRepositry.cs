@@ -14,6 +14,7 @@ using System.Security.Principal;
 using Microsoft.Azure.Cosmos.Linq;
 using SApInterface.API.Model.DTO;
 using Microsoft.AspNetCore.Mvc;
+using Azure;
 
 namespace SApInterface.API.Repositry
 {
@@ -209,16 +210,13 @@ namespace SApInterface.API.Repositry
 
         public async Task<SectionDetail> AddSectionDetail(SectionDetail section)
         {
-            try
-            {
+            
                 var container = ContainerClient();
-                var response = await container.CreateItemAsync(employee, new PartitionKey(employee.Department));
-                return Ok(response);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+                var response = await container.CreateItemAsync(section, new PartitionKey(section.id));
+                return response;
+
+            
+            
         }
 
         private Container ContainerClient()

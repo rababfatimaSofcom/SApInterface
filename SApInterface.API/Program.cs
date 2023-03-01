@@ -1,7 +1,9 @@
 using FluentValidation.AspNetCore;
+using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using SApInterface.API.Repositry;
+using System.Reflection;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +15,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 builder.Services.AddScoped<ISectionRepositry, SectionRepositry>();
 builder.Services.AddScoped<ITokenHandler, SApInterface.API.Repositry.TokenHandler>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();

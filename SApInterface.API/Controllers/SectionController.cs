@@ -23,6 +23,7 @@ namespace SApInterface.API.Controllers
             this.mapper = mapper;
         }
 
+
         [HttpGet]
 
         public async Task<IActionResult> GetAllSections()
@@ -34,6 +35,7 @@ namespace SApInterface.API.Controllers
             return Ok(sectionsDTO);
 
         }
+       
         [HttpGet]
         [Route("sectiondetail")]
         public async Task<IActionResult> GetSectionDetail()
