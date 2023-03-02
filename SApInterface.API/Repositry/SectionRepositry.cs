@@ -31,7 +31,7 @@ namespace SApInterface.API.Repositry
         #endregion
         private Sofcom.CoreServices.IDbManager _dbManager;
         public List<Section> sectionResult = new List<Section>();
-       public List<SectionDetail> sectiondet = new List<SectionDetail>();
+       public List<SectionDetail> sectiondet = new List<SectionDetail>(); 
         public Section sectionresponse = new Section();
         System.DateTime MDateTime;
         protected Sofcom.CoreServices.IDbManager dbManager
