@@ -1,0 +1,15 @@
+{
+  "id": "B1-01",
+  "LocationCode": "B1-01",
+  "LocationDesc": "Building 1 - Room 1/2",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021",
+  "ApplicableForExePhase": "E",
+  "LocationType": {
+    "LocationTypeCode": "MS",
+    "LocationTypeDesc": "Mist Shower Room"
+  }
+
+}

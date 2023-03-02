@@ -1,0 +1,17 @@
+{
+  "StepCode": "000010",
+  "StepDesc": "Determine net weight of final blend.",
+  "StepDetailsRTF": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\fnil\\fcharset0 Arial;}}  {\\colortbl ;\\red0\\green128\\blue255;}  \\viewkind4\\uc1\\pard\\f0\\fs22 Time bulk container(s) of \\cf1 &Ingredient&\\cf0  (Item 01) removed from 2\\$baC to 8\\$baC storage.\\fs24\\par  \\par  \\fs22 Do \\ul not\\ulnone  open bulk container(s) of Item 01 for a minimum of 12 hours.\\f1\\fs18\\par  }",
+  "StepDetailsHTML": "Overall Reconciliation",
+  "IsReadReqd": "N",
+  "IsCalcReqd": "N",
+  "IsValidReqd": "N",
+  "Comments": "",
+  "NoteRTF": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}  \\viewkind4\\uc1\\pard\\fs18\\par  }  ",
+  "NoteHTML": "",
+  "Status": "Y",
+  "Category": {
+    "SubDepCode": "CAP001",
+    "SubDepDesc": "Capsule General Steps"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "P001",
+  "PRODCODE": "Alvimopan 12 mg Anhydrous Capsules",
+  "PRODSHTNAME": "P001",
+  "PRODLNGNAME": "P001",
+  "PRODCATECODE": "P001",
+  "REGISTRATIONNO": "P001",
+  "BATCHSIZE": "P001",
+  "STATUS": "A",
+  "STORAGECON": "Room Temperature",
+  "UNIT": "tablets",
+  "Description": "White to off-white, modified caplet-shaped tablets, debossed with “FPI” on one side and “100” on the other side",
+  "ControlSubstance": "N",
+  "ControlSubDesc": "P001",
+  "ProdComments": "No expiration date from client. Pii dos not package this.",
+  "PartialPh": "N",
+  "UoPE": "N",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021",
+  "Category": {
+    "PRODCATECODE": "P001",
+    "PRODCATEDESC": "Common Granulation/Blend"
+  }
+
+}
+
+
