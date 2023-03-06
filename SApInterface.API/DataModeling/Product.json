@@ -30,7 +30,7 @@
     {
       "TemplateCode": "DMOTMP_XYZ1"
     }
-  ]
+  ],
   "Section": [
     {
       "SectionCode": "CM01"
@@ -38,7 +38,15 @@
     {
       "SectionCode": "CM02"
     }
-  ]
+  ],
+  "TempEffDate": "1900-01-01 00:00:00.000",
+  "Status": "A",
+  "Comments": "",
+  "ControlNo": "01",
+  "BatchSize": "500",
+  "ChangeBatchSizeOnExe": "Y",
+  "BatchUnit": "Kg",
+  "ESignStatus": "C"
 }
 
 
