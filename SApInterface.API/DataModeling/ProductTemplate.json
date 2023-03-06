@@ -1,0 +1,18 @@
+{
+  "id": "C2-01",
+  "TemplateCode": "DMOTMP_XYZ",
+  "SectionCode": "CM01",
+  "ProductCode": "AB_P_XYZ",
+  "TempEffDate": "1900-01-01 00:00:00.000",
+  "Status": "A",
+  "Comments": "",
+  "ControlNo": "01",
+  "BatchSize": "500",
+  "ChangeBatchSizeOnExe": "Y",
+  "BatchUnit": "Kg",
+  "ESignStatus": "C",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021"
+}

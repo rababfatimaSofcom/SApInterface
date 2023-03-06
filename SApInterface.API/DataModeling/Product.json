@@ -22,8 +22,23 @@
   "Category": {
     "PRODCATECODE": "P001",
     "PRODCATEDESC": "Common Granulation/Blend"
-  }
-
+  },
+  "Template": [
+    {
+      "TemplateCode": "DMOTMP_XYZ"
+    },
+    {
+      "TemplateCode": "DMOTMP_XYZ1"
+    }
+  ]
+  "Section": [
+    {
+      "SectionCode": "CM01"
+    },
+    {
+      "SectionCode": "CM02"
+    }
+  ]
 }
 
 

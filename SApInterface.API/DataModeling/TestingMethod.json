@@ -1,3 +1,23 @@
 {
-
+  "id": "B1-01",
+  "MethodID": "A0001",
+  "TESTCODE": "A0001",
+  "MethodDesc": "Container Closure Preparations Data Set",
+  "Numerical": "-",
+  "FormulaBase": "Y",
+  "Formula": "(!A0001,!A0002,!A0003,!A0004)",
+  "FrmDesc": "(!Container Closure (vial, stopper, seal, syringe),!Pii Lot #,!Autoclave or Oven,!Autoclave or Oven Load #)",
+  "RefNo": "-",
+  "UserField1": "",
+  "UserField2": "",
+  "UserField3": "",
+  "Multicalc": "",
+  "OperOfTest": "",
+  "Operation": "",
+  "Status": "",
+  "ValueType": "S",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021"
 }

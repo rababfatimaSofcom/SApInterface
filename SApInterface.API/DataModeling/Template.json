@@ -1,0 +1,40 @@
+{
+  "id": "CAPCW_TEM001",
+  "TempCode": "CAPCW_TEM001",
+  "TempDesc": "Capsule Check Weigh (automated)",
+  "SOPNo": "-",
+  "EffDate": "01-Jan-20121",
+  "RevisionDate": "01-Jan-20121",
+  "RevisionNo": 0,
+  "Comments": "",
+  "Status": "Y",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021",
+  "Stage": [
+    {
+      "StgLevelNo": "0",
+      "StageCode": "008"
+    },
+    {
+      "StgLevelNo": "1",
+      "StageCode": "009"
+    }
+  ],
+  "UnitOperation": {
+    "UOLevelNo": 1,
+    "MPUnitCode": "U008",
+    "SaftyIns": "",
+    "AreaReq": "",
+    "EquipReq": "",
+    "AdjstReq": ""
+  },
+  "Step": [
+    {
+      "StepCode": "CAP-CW010",
+      "StpLevelNo": 0,
+      "Skip": "N"
+    }
+  ]
+}
