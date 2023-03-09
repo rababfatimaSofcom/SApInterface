@@ -55,14 +55,15 @@ namespace SApInterface.API.Controllers
 
         }
 
+
         [HttpGet]
         [Route("{id}")]
-        [ActionName("GetSectionAsync")]
+             [ActionName("GetSectionAsync")]
         ///actionname used in post method to get response
         public async Task<IActionResult> GetSectionAsync(string id)
         {
             var section = await sectionRepository.GetSectionAsync(id);
-           
+
             if (section == null)
             {
                 return NotFound();
@@ -71,6 +72,23 @@ namespace SApInterface.API.Controllers
             var sectionDTO = mapper.Map<Model.DTO.SectionDTO>(section);
             return Ok(sectionDTO);
         }
+
+        [HttpGet]
+        [Route("CosmosSectionbyId/{CosmosSectionbyId}")]
+      
+        public async Task<IActionResult> GetCosmosSectionbyId(string CosmosSectionbyId)
+        {
+            var section = await sectionRepository.GetCoosmosSectionbyId(CosmosSectionbyId);
+
+            if (section == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(section);
+        }
+
+
         [HttpPost]
         public async Task<IActionResult> AddRegionAsync(Model.DTO.AddSectionRequest addSectionRequest)
         {

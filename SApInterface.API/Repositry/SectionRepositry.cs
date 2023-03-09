@@ -226,6 +226,19 @@ namespace SApInterface.API.Repositry
                 Container containerClient = cosmosDbClient.GetContainer(CosmosDbName, CosmosDbContainerName);
                 return containerClient;
           }
-        
+        public async Task<SectionDetail> GetCoosmosSectionbyId(string id)
+        {
+            try
+            {
+                var container = ContainerClient();
+                var response = await container.ReadItemAsync<SectionDetail>(id, new PartitionKey(id));
+                return response.Resource;
+            }
+            catch (CosmosException) //For handling item not found and other exceptions
+            {
+                return null;
+            }
+        }
+
     }
 }

@@ -13,5 +13,7 @@ namespace SApInterface.API.Repositry
         Task<Section> AddAsync(Section section);
 
         Task<SectionDetail> AddSectionDetail(SectionDetail section);
+
+        Task<SectionDetail> GetCoosmosSectionbyId(string id);
     }
 }
