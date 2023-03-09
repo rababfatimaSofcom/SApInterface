@@ -212,8 +212,9 @@ namespace SApInterface.API.Repositry
         {
             
                 var container = ContainerClient();
-                var response = await container.CreateItemAsync(section, new PartitionKey(section.id));
-                return response;
+                var response = await container.CreateItemAsync(section, new PartitionKey(section.sectioncode));
+         
+            return response;
 
             
             

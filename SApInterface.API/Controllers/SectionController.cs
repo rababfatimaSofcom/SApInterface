@@ -6,6 +6,7 @@ using SApInterface.API.Model.DTO;
 using Microsoft.AspNetCore.Authorization;
 using System.Data;
 using Microsoft.Azure.Cosmos;
+using SApInterface.API.Model.Domain;
 
 namespace SApInterface.API.Controllers
 {
@@ -98,6 +99,17 @@ namespace SApInterface.API.Controllers
             };
 
             return CreatedAtAction(nameof(GetSectionAsync), new { id = sectionDTO.sectionCode }, sectionDTO);
+        }
+
+        [HttpPost]
+        [Route("addsectiondetail")]
+            
+        public async Task<SectionDetail> AddSectionAsync(SectionDetail section)
+
+        {
+            var details = await sectionRepository.AddSectionDetail(section);
+            return details;
+
         }
     }
 }

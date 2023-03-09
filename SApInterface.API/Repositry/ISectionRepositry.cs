@@ -11,5 +11,7 @@ namespace SApInterface.API.Repositry
         Task<Section> GetSectionAsync(string code);
 
         Task<Section> AddAsync(Section section);
+
+        Task<SectionDetail> AddSectionDetail(SectionDetail section);
     }
 }
