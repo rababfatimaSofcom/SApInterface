@@ -1,0 +1,40 @@
+{
+  "id": "C22-01",
+  "SectionCode": "CM01",
+  "ProductCode": "0804",
+  "StdQty": 0,
+  "Comments": "",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021",
+  "IngrediantDetail": [
+    {
+      "SectionCode": "RM01",
+      "ProductCode": "0804INT",
+      "SeqNo": "03A",
+      "PerStdQtyReqd": "Y",
+      "QtyPerStdKg": "0.000",
+      "QtyPerStdG": "0.000",
+      "QtyPerStdMg": "25.000",
+      "wwReqd": "N",
+      "AdjustReqd": "N",
+      "LotBreakable": "N",
+      "ReqdOnPharmSh": "Y",
+      "ReqdOnMstrFor": "Y",
+      "ForInfo": "N",
+      "TestingStandard": "",
+      "IngComments": "20.800 kg total or about 5.200 kg per granulation sub-lot is required for blending."
+    }
+  ],
+  "UnitCode": "U002B",
+  "AreaTType": [
+    {
+      "AreaTypeCode": "C",
+      "Remarks": "Perform Line Clearance as per SOP 8.042",
+      "LCReqd": "Yes",
+      "LCCode": "LC001"
+    }
+  ],
+  "SafetyIns": "A) Wear protective hood, respirator, and proper attire before handling raw materials and product, per SOP 10.137.      B) Perform operations in a containment suite.      C) Refer to Safety Assessment for Progesterone."
+}

@@ -25,11 +25,17 @@
   },
   "Template": [
     {
-      "TemplateCode": "DMOTMP_XYZ"
-    },
-    {
-      "TemplateCode": "DMOTMP_XYZ1"
+      "TemplateCode": "DMOTMP_XYZ",
+      "TempEffDate": "1900-01-01 00:00:00.000",
+      "Status": "A",
+      "Comments": "",
+      "ControlNo": "01",
+      "BatchSize": "500",
+      "ChangeBatchSizeOnExe": "Y",
+      "BatchUnit": "Kg",
+      "ESignStatus": "C"
     }
+    
   ],
   "Section": [
     {
@@ -38,15 +44,8 @@
     {
       "SectionCode": "CM02"
     }
-  ],
-  "TempEffDate": "1900-01-01 00:00:00.000",
-  "Status": "A",
-  "Comments": "",
-  "ControlNo": "01",
-  "BatchSize": "500",
-  "ChangeBatchSizeOnExe": "Y",
-  "BatchUnit": "Kg",
-  "ESignStatus": "C"
+  ]
+ 
 }
 
 

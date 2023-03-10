@@ -1,0 +1,27 @@
+{
+  "id": "C27-01",
+  "SectionCode": "CM01",
+  "ProductCode": "10505",
+  "StageCode": "S015",
+  "AdjOptCode": "OPTION1",
+  "AdjOptDesc": "If using one lot of Fx-1006A, perform these calculations.",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021",
+  "Detail": [
+    {
+      "TCTD": "IA1050501",
+      "SeqNo": "01",
+      "AssignAt": "Theoretical Quantity",
+      "Status": "R",
+      "SlctdIng": "1437-D19",
+      "Adjsted": "N",
+      "DefMethod": "",
+      "Comments": "",
+      "SlctdIngSeq": "01",
+      "Unit": "mg",
+      "LotNo": "0"
+    }
+  ]
+}

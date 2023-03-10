@@ -14,12 +14,30 @@
     "CateCode": "NA",
     "CateDesc": "Not Applicable"
   },
-  "Method": {
-    "MethodID": "00999",
-    "Cost": "1.00"
-  },
-  {
-    "MethodID": "ABC1",
-    "Cost": "1.00"
-  }
+  "Method": [
+    {
+      "MethodID": "00999",
+      "Cost": "1.00"
+    },
+    {
+      "MethodID": "ABC1",
+      "Cost": "1.00"
+    }
+  ],
+  "LineClearance": [
+    {
+      "LCCODE": "LC008",
+      "LCDESC": "Drug Weighing (Packing Materials)",
+      "SOPNO": "01",
+      "STATUS": "A",
+      "COMMENTS": "",
+      "REVDATE": "2021-09-01 00:00:00.000",
+      "LCAPP": "Area",
+      "LimitsApp": "No",
+      "Operator": "-",
+      "Value1": "-",
+      "Value2": "-",
+      "mandatory": "Y"
+    }
+  ]
 }
