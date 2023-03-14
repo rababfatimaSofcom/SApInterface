@@ -1,0 +1,23 @@
+{
+  "id": "COM",
+  "SectionCode": "CM01",
+  "ProductCode": "0804",
+  "TempalteCode": "XTEM_FER001",
+  "BatchNo": "0804.212",
+  "BatchType": {
+    "BatchTypeCode": "COM",
+    "BatchTypeDesc": "Commercial Batch"
+
+  },
+  "BatchStatus": {
+    "BatchStatusCode": "001",
+    "BatchStatusDesc": "Released",
+    "IncBatchRep": "N"
+
+  },
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021",
+  "TenantId": "1038"
+}

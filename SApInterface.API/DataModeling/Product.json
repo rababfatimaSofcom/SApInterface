@@ -19,6 +19,7 @@
   "CreatedOn": "01-Jan-2021",
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
+  "TenantId": "1038",
   "Category": {
     "PRODCATECODE": "P001",
     "PRODCATEDESC": "Common Granulation/Blend"
@@ -35,7 +36,7 @@
       "BatchUnit": "Kg",
       "ESignStatus": "C"
     }
-    
+
   ],
   "Section": [
     {
@@ -45,7 +46,7 @@
       "SectionCode": "CM02"
     }
   ]
- 
+
 }
 
 
