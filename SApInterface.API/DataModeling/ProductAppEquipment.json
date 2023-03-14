@@ -1,0 +1,22 @@
+{
+  "id": "C22-01",
+  "SectionCode": "CM01",
+  "ProductCode": "0804",
+  "TempalteCode": "XTEM_FER001",
+  "StepCode": "B00029",
+  "Comments": "",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021",
+  "EquipmentType": [
+    {
+      "EqpTypeCode": "ET032",
+      "MinimumNo": 1
+
+    }
+  ]
+
+}
+
+
