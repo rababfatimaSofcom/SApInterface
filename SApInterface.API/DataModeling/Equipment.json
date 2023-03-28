@@ -1,6 +1,6 @@
 [
   {
-    "id": "E00001",
+   
     "InsCode": "E00001",
     "InsName": "Gast: Air Driven Mixer: 2AM-FCC-1                                                                   ",
     "MfgCode": "NA",
@@ -13,7 +13,7 @@
     "PersonCode": "NA",
     "InsTypeCode": "ET019",
     "TenantId": "1038",
-    "equipmentpartitionKey": "E00001-1038",
+    "equipmentpk": "E00001-1038",
     "CreatedBy": "ADMIN",
     "CreatedOn": "01-Jan-2021",
     "LastUser": "ADMIN",
