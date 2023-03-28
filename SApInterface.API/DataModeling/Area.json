@@ -1,16 +1,16 @@
-{
-  "id": "B1-01",
-  "LocationCode": "B1-01",
-  "LocationDesc": "Building 1 - Room 1/2",
-  "CreatedBy": "ADMIN",
-  "CreatedOn": "01-Jan-2021",
-  "LastUser": "ADMIN",
-  "LastUpdate": "01-Jan-2021",
-  "TenantId": "1038",
-  "ApplicableForExePhase": "E",
-  "LocationType": {
-    "LocationTypeCode": "MS",
-    "LocationTypeDesc": "Mist Shower Room"
-  }
+[
+  {
+    
+    "AreaCode": "B1-01",
+    "AreaDesc": "Building 1 - Room 1/2",
+    "CreatedBy": "ADMIN",
+    "CreatedOn": "01-Jan-2021",
+    "LastUser": "ADMIN",
+    "LastUpdate": "01-Jan-2021",
+    "TenantId": "1038",
+    "ApplicableForExePhase": "E",
+    "AreaTypeCode": "MS",
+     "areapk": "B1-01-1038"
 
-}
+  }
+]

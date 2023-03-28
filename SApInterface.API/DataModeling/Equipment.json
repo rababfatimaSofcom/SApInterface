@@ -1,42 +1,60 @@
-{
-  "InsCode": "E00001",
-  "InsName": "Gast: Air Driven Mixer: 2AM-FCC-1                                                                   ",
-  "MfgCode": null,
-  "Model": "NA",
-  "SerialNo": "903362193",
-  "SubDepartment": {
+[
+  {
+    "id": "E00001",
+    "InsCode": "E00001",
+    "InsName": "Gast: Air Driven Mixer: 2AM-FCC-1                                                                   ",
+    "MfgCode": "NA",
+    "Model": "NA",
+    "SerialNo": "903362193",
     "SubDepCode": "NA",
-    "SubDepDesc": "Not Applicable"
-  },
-  "LocationCode": {
     "LocationCode": "NA",
-    "LocationDesc": "Not Applicable"
-  },
-  "ResponsiblePerson": {
     "RePersonCode": "NA",
-    "RePersonDesc": "Not Applicable"
-  },
-  "Usage": {
-    "UsageCode": "NA",
-    "UsageDesc": "Not Applicable"
-  },
-  "AccuiredCost": 32023,
-  "AccuiredDate": "01-Jan-2021",
-  "Status": "A",
-  "Supplier": {
     "SupplierCode": "NA",
-    "SupplierDesc": "Not Applicable"
-  },
-  "PersonCode": {
     "PersonCode": "NA",
-    "PersonDesc": "Not Applicable"
-  },
-  "InstrumentType": {
     "InsTypeCode": "ET019",
-    "InsTypeDesc": "King",
-    "CalDueDateApp": "Seattle",
-    "CLTRApp": "Seattle"
-  },
-  "TenantId": "1038"
-}
+    "TenantId": "1038",
+    "equipmentpartitionKey": "E00001-1038",
+    "CreatedBy": "ADMIN",
+    "CreatedOn": "01-Jan-2021",
+    "LastUser": "ADMIN",
+    "LastUpdate": "01-Jan-2021"
 
+  }
+  //{
+  //  "id": "NA",
+  //  "PersonCode": "NA",
+  //  "PersonDesc": "Not Applicable",
+  //  "TenantId": "1038",
+  //  "Type": "Person"
+  //},
+  //{
+  //  "id": "NA",
+  //  "SupplierCode": "NA",
+  //  "SupplierDesc": "Not Applicable",
+  //  "TenantId": "1038",
+  //  "Type": "Supplier"
+  //},
+  //{
+  //  "id": "NA",
+  //  "UsageCode": "NA",
+  //  "UsageDesc": "Not Applicable",
+  //  "AccuiredCost": 32023,
+  //  "AccuiredDate": "01-Jan-2021",
+  //  "TenantId": "1038",
+  //  "Type": "Usage"
+  //},
+  //{
+  //  "id": "NA",
+  //  "RePersonCode": "NA",
+  //  "RePersonDesc": "Not Applicable",
+  //  "TenantId": "1038",
+  //  "Type": "Responsibleperson"
+  //},
+  //{
+  //  "id": "NA",
+  //  "SubDepCode": "NA",
+  //  "SubDepDesc": "Not Applicable",
+  //  "TenantId": "1038",
+  //  "Type": "SubDepartment"
+  //}
+]

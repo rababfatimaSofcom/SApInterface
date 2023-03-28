@@ -1,0 +1,13 @@
+{
+
+  "InsTypeCode": "ET019",
+  "InsTypeDesc": "King",
+  "CalDueDateApp": "Seattle",
+  "CLTRApp": "Seattle",
+  "TenantId": "1038",
+  "equipmenttypepartitionKey": "ET019-1038",
+  "CreatedBy": "ADMIN",
+  "CreatedOn": "01-Jan-2021",
+  "LastUser": "ADMIN",
+  "LastUpdate": "01-Jan-2021"
+}
