@@ -10,13 +10,11 @@
   "NoteRTF": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}  \\viewkind4\\uc1\\pard\\fs18\\par  }  ",
   "NoteHTML": "",
   "Status": "Y",
-  "Category": {
-    "SubDepCode": "CAP001",
-    "SubDepDesc": "Capsule General Steps"
-  },
-  "CreatedBy": "ADMIN",
+  "SubDepCode": "CAP001",
+   "CreatedBy": "ADMIN",
   "CreatedOn": "01-Jan-2021",
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
-  "TenantId": "1038"
+  "TenantId": "1038",
+  "steppk": "000010-1038"
 }

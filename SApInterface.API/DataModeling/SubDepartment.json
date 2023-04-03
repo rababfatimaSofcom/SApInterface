@@ -1,15 +1,14 @@
 [
   {
-    "CustID": "01",
-    "CustName": "Ovation Pharmaceuticals,Inc. (OVP)",
-    "Address": "-",
-    "PhoneNo": "-",
+
+    "SubDepCode": "CAP001",
+    "SubDepDesc": "Capsule General Steps",
     "CreatedBy": "ADMIN",
     "CreatedOn": "01-Jan-2021",
     "LastUser": "ADMIN",
     "LastUpdate": "01-Jan-2021",
     "TenantId": "1038",
-    "customerpk": "B1-01-1038"
+    "subdeptpk": "B1-01-1038"
 
   }
 ]

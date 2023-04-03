@@ -1,5 +1,5 @@
 {
-  "id": "CAPCW_TEM001",
+ 
   "TempCode": "CAPCW_TEM001",
   "TempDesc": "Capsule Check Weigh (automated)",
   "SOPNo": "-",
@@ -13,6 +13,7 @@
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
   "TenantId": "1038",
+  "templatepk": "000010-1038",
   "Stage": [
     {
       "StgLevelNo": "0",

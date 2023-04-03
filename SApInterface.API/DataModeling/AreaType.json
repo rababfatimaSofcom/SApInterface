@@ -5,7 +5,7 @@
     "AreaTypeCode": "MS",
     "AreaTypeDesc": "Mist Shower Room",
     "TenantId": "1038",
-    "areatypepartitionKey": "MS-1038",
+    "areatypepk": "MS-1038",
     "CreatedBy": "ADMIN",
     "CreatedOn": "01-Jan-2021",
     "LastUser": "ADMIN",

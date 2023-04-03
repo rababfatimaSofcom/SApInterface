@@ -1,5 +1,5 @@
 {
-  "id": "B1-01",
+
   "MethodID": "A0001",
   "TESTCODE": "A0001",
   "MethodDesc": "Container Closure Preparations Data Set",
@@ -20,5 +20,6 @@
   "CreatedOn": "01-Jan-2021",
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
-  "TenantId": "1038"
+  "TenantId": "1038",
+  "methodpk": "A0001-1038"
 }

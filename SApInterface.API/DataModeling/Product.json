@@ -20,11 +20,9 @@
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
   "TenantId": "1038",
-  "Category": {
-    "PRODCATECODE": "P001",
-    "PRODCATEDESC": "Common Granulation/Blend"
-  },
-  "Template": [
+  "prodpk": "P001-1038",
+  "PRODCATECODE": "P001",
+    "Template": [
     {
       "TemplateCode": "DMOTMP_XYZ",
       "TempEffDate": "1900-01-01 00:00:00.000",
@@ -38,14 +36,8 @@
     }
 
   ],
-  "Section": [
-    {
-      "SectionCode": "CM01"
-    },
-    {
-      "SectionCode": "CM02"
-    }
-  ]
+  "SectionCode": "CM01"
+  
 
 }
 

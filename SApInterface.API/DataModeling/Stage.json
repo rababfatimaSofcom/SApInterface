@@ -1,5 +1,5 @@
 {
-  "id": "S001B",
+
   "StageCode": "S001B",
   "StageDesc": "Granulation",
   "Status": "Y",
@@ -8,5 +8,6 @@
   "CreatedOn": "01-Jan-2021",
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
-  "TenantId": "1038"
+  "TenantId": "1038",
+  "stagepk": "S001B-1038"
 }
