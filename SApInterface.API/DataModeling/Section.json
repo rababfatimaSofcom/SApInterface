@@ -7,5 +7,6 @@
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
   "TenantId": "1038",
-  "sectionpk": "FP1-1038"
+  "sectionpk": "1038-section",
+  "type": "section"
 }

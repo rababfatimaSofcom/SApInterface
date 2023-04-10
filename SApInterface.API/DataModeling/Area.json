@@ -1,6 +1,6 @@
 [
   {
-    
+
     "AreaCode": "B1-01",
     "AreaDesc": "Building 1 - Room 1/2",
     "CreatedBy": "ADMIN",
@@ -10,7 +10,11 @@
     "TenantId": "1038",
     "ApplicableForExePhase": "E",
     "AreaTypeCode": "MS",
-     "areapk": "B1-01-1038"
-
+    "areapk": "1038-area",
+    "type": "area",
+    "areatype": {
+      "AreaTypeCode": "MS",
+      "AreaTypeDesc": "Mist Shower Room"
+    }
   }
 ]
