@@ -1,14 +1,14 @@
 [
   {
 
-    "CateCode": "NA",
-    "CateDesc": "Not Applicable",
+    "testCateCode": "NA",
+    "testCateDesc": "Not Applicable",
     "CreatedBy": "ADMIN",
     "CreatedOn": "01-Jan-2021",
     "LastUser": "ADMIN",
     "LastUpdate": "01-Jan-2021",
     "TenantId": "1038",
-    "testcatepk": "1038-testcate",
+    "typepk1": "1038-testcate",
     "type": "testcate"
   }
 ]

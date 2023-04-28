@@ -10,7 +10,7 @@
     "TenantId": "1038",
     "ApplicableForExePhase": "E",
     "AreaTypeCode": "MS",
-    "areapk": "1038-area",
+    "typepk2": "1038-area",
     "type": "area",
     "areatype": {
       "AreaTypeCode": "MS",

@@ -11,10 +11,10 @@
   "NoteHTML": "",
   "Status": "Y",
   "SubDepCode": "CAP001",
-   "CreatedBy": "ADMIN",
+  "CreatedBy": "ADMIN",
   "CreatedOn": "01-Jan-2021",
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
   "TenantId": "1038",
-  "steppk": "000010-1038"
+  "steppk": "1038-000010"
 }

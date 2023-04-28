@@ -1,5 +1,5 @@
 {
-   "TESTCODE": "A0001",
+  "TESTCODE": "A0001",
   "TESTSHTDESC": "Accountable Yield (B",
   "TESTLNGDESC": "Accountable Yield (Blend)",
   "NUMLTEST": "Y",
@@ -10,9 +10,9 @@
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
   "TenantId": "1038",
-  "testpk": "B3-01-1038",
+  "testpk": "1038-B3-01",
   "CateCode": "NA",
-   "Method": [
+  "Method": [
     {
       "MethodID": "00999",
       "Cost": "1.00"

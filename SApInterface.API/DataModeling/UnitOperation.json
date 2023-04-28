@@ -1,5 +1,5 @@
 {
- 
+
   "MpUnitCode": "U002B",
   "MpUnitDesc": "Granulation Sub-Lot A",
   "Status": "Y",
@@ -9,5 +9,5 @@
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
   "TenantId": "1038",
-  "unitoperationpk": "U002B-1038"
+  "unitoperationpk": "1038-U002B"
 }

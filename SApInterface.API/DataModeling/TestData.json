@@ -1,14 +1,14 @@
 [
   {
 
-    "TestDataCode": "NA",
+    "testDataCode": "NA",
     "testDataDesc": "Not Applicable",
     "CreatedBy": "ADMIN",
     "CreatedOn": "01-Jan-2021",
     "LastUser": "ADMIN",
     "LastUpdate": "01-Jan-2021",
     "TenantId": "1038",
-    "testdatapk": "NA-1038"
+    "testdatapk": "1038-NA"
 
   }
 ]

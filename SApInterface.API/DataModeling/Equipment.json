@@ -21,44 +21,162 @@
     "equipmenttype": {
       "InsTypeCode": "ET019",
       "InsTypeDesc": "King"
-       }
+    },
+    {
 
-  }
-  //{
-  //  "id": "NA",
-  //  "PersonCode": "NA",
-  //  "PersonDesc": "Not Applicable",
-  //  "TenantId": "1038",
-  //  "Type": "Person"
-  //},
-  //{
-  //  "id": "NA",
-  //  "SupplierCode": "NA",
-  //  "SupplierDesc": "Not Applicable",
-  //  "TenantId": "1038",
-  //  "Type": "Supplier"
-  //},
-  //{
-  //  "id": "NA",
-  //  "UsageCode": "NA",
-  //  "UsageDesc": "Not Applicable",
-  //  "AccuiredCost": 32023,
-  //  "AccuiredDate": "01-Jan-2021",
-  //  "TenantId": "1038",
-  //  "Type": "Usage"
-  //},
-  //{
-  //  "id": "NA",
-  //  "RePersonCode": "NA",
-  //  "RePersonDesc": "Not Applicable",
-  //  "TenantId": "1038",
-  //  "Type": "Responsibleperson"
-  //},
-  //{
-  //  "id": "NA",
-  //  "SubDepCode": "NA",
-  //  "SubDepDesc": "Not Applicable",
-  //  "TenantId": "1038",
-  //  "Type": "SubDepartment"
-  //}
+      "InsCode": "AB_E0002",
+      "InsName": "S.S. JACKETED PROCESS &  STORAGE VESSEL (1000 KG)",
+      "MfgCode": "NA",
+      "Model": "NA",
+      "SerialNo": "903362193",
+      "SubDepCode": "NA",
+      "LocationCode": "NA",
+      "RePersonCode": "NA",
+      "SupplierCode": "NA",
+      "PersonCode": "NA",
+      "InsTypeCode": "ET019",
+      "TenantId": "1038",
+      "equipmentpk": "E00001-1038",
+      "CreatedBy": "ADMIN",
+      "CreatedOn": "01-Jan-2021",
+      "LastUser": "ADMIN",
+      "LastUpdate": "01-Jan-2021",
+      "equipmenttype": {
+        "InsTypeCode": "AB_ET001",
+        "InsTypeDesc": "King"
+      }
+    },
+    {
+
+      "InsCode": "AB_E0004",
+      "InsName": "Dip Stick 01",
+      "MfgCode": "NA",
+      "Model": "NA",
+      "SerialNo": "903362193",
+      "SubDepCode": "NA",
+      "LocationCode": "NA",
+      "RePersonCode": "NA",
+      "SupplierCode": "NA",
+      "PersonCode": "NA",
+      "InsTypeCode": "ET019",
+      "TenantId": "1038",
+      "equipmentpk": "E0004-1038",
+      "CreatedBy": "ADMIN",
+      "CreatedOn": "01-Jan-2021",
+      "LastUser": "ADMIN",
+      "LastUpdate": "01-Jan-2021",
+      "equipmenttype": {
+        "InsTypeCode": "AB_ET001",
+        "InsTypeDesc": "King"
+      },
+      {
+
+        "InsCode": "AB_E0005",
+        "InsName": "Dip Stick 02",
+        "MfgCode": "NA",
+        "Model": "NA",
+        "SerialNo": "903362193",
+        "SubDepCode": "NA",
+        "LocationCode": "NA",
+        "RePersonCode": "NA",
+        "SupplierCode": "NA",
+        "PersonCode": "NA",
+        "InsTypeCode": "ET019",
+        "TenantId": "1038",
+        "equipmentpk": "E0005-1038",
+        "CreatedBy": "ADMIN",
+        "CreatedOn": "01-Jan-2021",
+        "LastUser": "ADMIN",
+        "LastUpdate": "01-Jan-2021",
+        "equipmenttype": {
+          "InsTypeCode": "AB_ET001",
+          "InsTypeDesc": "King"
+        }
+      },
+      {
+
+        "InsCode": "AB_E0006",
+        "InsName": "Transfer Pump 01",
+        "MfgCode": "NA",
+        "Model": "NA",
+        "SerialNo": "903362193",
+        "SubDepCode": "NA",
+        "LocationCode": "NA",
+        "RePersonCode": "NA",
+        "SupplierCode": "NA",
+        "PersonCode": "NA",
+        "InsTypeCode": "ET019",
+        "TenantId": "1038",
+        "equipmentpk": "E0006-1038",
+        "CreatedBy": "ADMIN",
+        "CreatedOn": "01-Jan-2021",
+        "LastUser": "ADMIN",
+        "LastUpdate": "01-Jan-2021",
+        "equipmenttype": {
+          "InsTypeCode": "AB_ET001",
+          "InsTypeDesc": "King"
+        }
+      },
+      {
+
+        "InsCode": "AB_E0008",
+        "InsName": "S.S.Jacketed Process & Storage Vessel",
+        "MfgCode": "NA",
+        "Model": "NA",
+        "SerialNo": "903362193",
+        "SubDepCode": "NA",
+        "LocationCode": "NA",
+        "RePersonCode": "NA",
+        "SupplierCode": "NA",
+        "PersonCode": "NA",
+        "InsTypeCode": "ET019",
+        "TenantId": "1038",
+        "equipmentpk": "E0008-1038",
+        "CreatedBy": "ADMIN",
+        "CreatedOn": "01-Jan-2021",
+        "LastUser": "ADMIN",
+        "LastUpdate": "01-Jan-2021",
+        "equipmenttype": {
+          "InsTypeCode": "AB_ET001",
+          "InsTypeDesc": "King"
+        }
+      }
+
+      //{
+      //  "id": "NA",
+      //  "PersonCode": "NA",
+      //  "PersonDesc": "Not Applicable",
+      //  "TenantId": "1038",
+      //  "Type": "Person"
+      //},
+      //{
+      //  "id": "NA",
+      //  "SupplierCode": "NA",
+      //  "SupplierDesc": "Not Applicable",
+      //  "TenantId": "1038",
+      //  "Type": "Supplier"
+      //},
+      //{
+      //  "id": "NA",
+      //  "UsageCode": "NA",
+      //  "UsageDesc": "Not Applicable",
+      //  "AccuiredCost": 32023,
+      //  "AccuiredDate": "01-Jan-2021",
+      //  "TenantId": "1038",
+      //  "Type": "Usage"
+      //},
+      //{
+      //  "id": "NA",
+      //  "RePersonCode": "NA",
+      //  "RePersonDesc": "Not Applicable",
+      //  "TenantId": "1038",
+      //  "Type": "Responsibleperson"
+      //},
+      //{
+      //  "id": "NA",
+      //  "SubDepCode": "NA",
+      //  "SubDepDesc": "Not Applicable",
+      //  "TenantId": "1038",
+      //  "Type": "SubDepartment"
+      //}
 ]

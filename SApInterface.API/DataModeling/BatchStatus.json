@@ -1,5 +1,5 @@
 {
-  "id": "COM",
+
   "BatchStatusCode": "001",
   "BatchStatusDesc": "Released",
   "IncBatchRep": "N",
@@ -7,7 +7,7 @@
   "CreatedOn": "01-Jan-2021",
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
-  "batchstatuspk": "1038-batchtstatus",
+  "typepk1": "1038-batchtstatus",
   "type": "batchtstatus"
 
 }

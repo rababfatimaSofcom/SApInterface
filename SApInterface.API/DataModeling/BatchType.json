@@ -1,11 +1,10 @@
 {
-  "id": "COM",
   "BatchTypeCode": "COM",
   "BatchTypeDesc": "Commercial Batch",
   "CreatedBy": "ADMIN",
   "CreatedOn": "01-Jan-2021",
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
-  "batchtypepk": "1038-batchtype",
+  "typepk1": "1038-batchtype",
   "type": "batchtype"
 }

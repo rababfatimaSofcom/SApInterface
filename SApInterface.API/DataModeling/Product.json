@@ -20,9 +20,9 @@
   "LastUser": "ADMIN",
   "LastUpdate": "01-Jan-2021",
   "TenantId": "1038",
-  "prodpk": "P001-1038",
+  "productpk": "1038-P001",
   "PRODCATECODE": "P001",
-    "Template": [
+  "Template": [
     {
       "TemplateCode": "DMOTMP_XYZ",
       "TempEffDate": "1900-01-01 00:00:00.000",
@@ -37,7 +37,7 @@
 
   ],
   "SectionCode": "CM01"
-  
+
 
 }
 
